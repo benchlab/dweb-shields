@@ -43,6 +43,8 @@ custom HEX
 Below is a list of our official dWeb Shields. Use as many times as you like. 
 
 ### dWeb Official
+[![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/dweb/official/lightgreen)](https://https://github.com/benchlab/dweb)
+
 ```
 [![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/dweb/official/lightgreen)](https://https://github.com/benchlab/dweb)
 ```
