@@ -42,7 +42,16 @@ custom HEX
 ## dWeb Official Shields
 Below is a list of our official dWeb Shields. Use as many times as you like. 
 
-### dWeb Official
+### dWeb Protocol Shield
+[![dWebProtocol](https://raw.githubusercontent.com/benchlab/dweb-shields/master/shields/dweb-protocol-shield.svg)](https://https://github.com/benchlab/dweb)
+
+```
+[![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20dWeb%20/%20Official%20/lightgreen)](https://https://github.com/benchlab/dweb)
+```
+
+
+
+### dWeb Official Shield
 [![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20dWeb%20/%20Official%20/lightgreen)](https://https://github.com/benchlab/dweb)
 
 ```
@@ -58,7 +67,7 @@ Below is a list of our official dWeb Shields. Use as many times as you like.
 ```
 
 
-### DCDN Integrated
+### DCDN Integrated Shield
 [![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20DCDN%20/integrated/lightgreen)](https://https://github.com/benchlab/dcdn)
 
 ```
@@ -73,7 +82,7 @@ Below is a list of our official dWeb Shields. Use as many times as you like.
 [![dWebShield](https://img.shields.io/badge/DCDN-Integrated-brightgreen.svg)](https://https://github.com/benchlab/dcdn)
 ```
 
-### dWeb App
+### dWeb App Shield
 [![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20dWeb%20/App/lightgreen)](https://https://github.com/benchlab/dweb)
 
 ```
