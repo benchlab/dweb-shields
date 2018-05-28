@@ -46,7 +46,7 @@ Below is a list of our official dWeb Shields. Use as many times as you like.
 [![dWebProtocol](https://github.com/benchlab/dweb-shields/blob/master/shields/dweb-protocol-shield.svg)](https://https://github.com/benchlab/dweb)
 
 ```
-[![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20dWeb%20/%20Official%20/lightgreen)](https://https://github.com/benchlab/dweb)
+[![dWebShield](https://github.com/benchlab/dweb-shields/blob/master/shields/dweb-protocol-shield.svg)](https://https://github.com/benchlab/dweb)
 ```
 
 
