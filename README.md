@@ -49,12 +49,16 @@ Below is a list of our official dWeb Shields. Use as many times as you like.
 [![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/dWeb/official/lightgreen)](https://https://github.com/benchlab/dweb)
 ```
 
-### dWeb Protocol
-[![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/dWeb/official/lightgreen)](https://https://github.com/benchlab/dweb)
-
-### dWeb DCDN Integrated
+### DCDN Integrated
 [![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/DCDN%20/Integrated/lightgreen)](https://https://github.com/benchlab/dcdn)
 
 ```
 [![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/DCDN%20/Integrated/lightgreen)](https://https://github.com/benchlab/dcdn)
+```
+
+### dWeb App
+[![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/dWeb/App/lightgreen)](https://https://github.com/benchlab/dweb)
+
+```
+[![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/dWeb/App/lightgreen)](https://https://github.com/benchlab/dweb)
 ```
