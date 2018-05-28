@@ -50,10 +50,10 @@ Below is a list of our official dWeb Shields. Use as many times as you like.
 ```
 
 ### DCDN Integrated
-[![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20DCDN%20/Integrated/lightgreen)](https://https://github.com/benchlab/dcdn)
+[![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20DCDN%20/integrated/lightgreen)](https://https://github.com/benchlab/dcdn)
 
 ```
-[![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20DCDN%20/Integrated/lightgreen)](https://https://github.com/benchlab/dcdn)
+[![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20DCDN%20/integrated/lightgreen)](https://https://github.com/benchlab/dcdn)
 ```
 
 ### dWeb App
