@@ -49,6 +49,15 @@ Below is a list of our official dWeb Shields. Use as many times as you like.
 [![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20dWeb%20/%20Official%20/lightgreen)](https://https://github.com/benchlab/dweb)
 ```
 
+**Shields.io Alternative**
+
+[![dWebShield](https://img.shields.io/badge/dWeb-Official-brightgreen.svg)](https://https://github.com/benchlab/dweb)
+
+```
+[![dWebShield](https://img.shields.io/badge/dWeb-Official-brightgreen.svg)](https://https://github.com/benchlab/dweb)
+```
+
+
 ### DCDN Integrated
 [![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20DCDN%20/integrated/lightgreen)](https://https://github.com/benchlab/dcdn)
 
@@ -56,9 +65,24 @@ Below is a list of our official dWeb Shields. Use as many times as you like.
 [![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20DCDN%20/integrated/lightgreen)](https://https://github.com/benchlab/dcdn)
 ```
 
+**Shields.io Alternative**
+
+[![dWebShield](https://img.shields.io/badge/DCDN-Integrated-brightgreen.svg)](https://https://github.com/benchlab/dcdn)
+
+```
+[![dWebShield](https://img.shields.io/badge/DCDN-Integrated-brightgreen.svg)](https://https://github.com/benchlab/dcdn)
+```
+
 ### dWeb App
 [![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20dWeb%20/App/lightgreen)](https://https://github.com/benchlab/dweb)
 
 ```
 [![dWebShield](https://dweb-shields.herokuapp.com/dwebshield/%20dWeb%20/App/lightgreen)](https://https://github.com/benchlab/dweb)
+```
+**Shields.io Alternative**
+
+[![dWebShield](https://img.shields.io/badge/dWeb-App-brightgreen.svg)](https://https://github.com/benchlab/dweb)
+
+```
+[![dWebShield](https://img.shields.io/badge/dWeb-App-brightgreen.svg)](https://https://github.com/benchlab/dweb)
 ```
